@@ -137,7 +137,7 @@ int main()
 			cin >> name;
 			cout << "Password : ";
 			cin >> pass;
-			if (name == "daffa" && pass == "1234")
+			if (name == "admin" && pass == "admin")
 			{
 			menus:
 				system("cls");
