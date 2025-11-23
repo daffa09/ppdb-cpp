@@ -2,10 +2,12 @@
 <!-- slug: ppdb-cpp -->
 <!-- title: PPDB C++ -->
 <!-- description: Simple student admission system (PPDB) built with C++ using in-memory data storage -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-ppdb-cpp -->
+<!-- image: https://github.com/user-attachments/assets/75c4e8d6-9cc1-4d53-8761-cead8603805e -->
 <!-- tags: c++, console-app, admission-system, learning-project -->
 
 # PPDB C++ - Student Admission System
+
+<img width="1536" height="1024" alt="ppdb-cpp" src="https://github.com/user-attachments/assets/75c4e8d6-9cc1-4d53-8761-cead8603805e" />
 
 A simple student admission system (PPDB - Penerimaan Peserta Didik Baru) built with C++. This console-based application manages new student registrations using in-memory data storage, demonstrating fundamental C++ programming concepts.
 
